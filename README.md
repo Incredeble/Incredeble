@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vibhubhardwaaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vibhubhardwaaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-sharma-97a49a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-sharma-97a49a1aa" height="30" width="40" /></a>
+<br/><a href="https://linkedin.com/in/vaibhav-sharma-97a49a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-sharma-97a49a1aa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
